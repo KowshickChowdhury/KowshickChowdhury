@@ -1,30 +1,15 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Kowshick</h1>
-
-### Social media
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kowshick-chowdhury-6917a3179)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshick1170@gmail.com)
+<div id="header" align="center">
+  <h1>
+    Hey there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+     <div>My name is Kowshick. I am a full stack developer from Chittagong, Bangladesh.</div>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <br />
-
-<div align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" max-width="480"/></div>
-<br />
-
-- 👨‍💻 I am a Full Stack Developer
-
-- 🌱 I’m currently working as a Software Engineer at **[DevsBrain](https://devsbrain.com/)**
-
-- 👯 I’m looking to collaborate on **Open Source projects**
-
-- 💬 Ask me about **my journey from Finance to Web Development!**
-
-- 📫 Reach me at **kowshick1170@gmail.com**
-
-- ⚡ Fun fact: **Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.**
-
-
 
 ### Languages and Tools:
 
@@ -46,7 +31,6 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -59,8 +43,23 @@
 <img align="left" alt="GitHub" width="40px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
+<br/>
+
+### Social media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kowshick-chowdhury-6917a3179)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshick1170@gmail.com)
 
 <br />
-<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KozhInna&layout=compact)
+
+- 👨‍💻 I am a Full Stack Developer
+
+- 🌱 I’m currently working as a Software Engineer at **[DevsBrain](https://devsbrain.com/)**
+
+- 👯 I’m looking to collaborate on **Open Source projects**
+
+- 📫 Reach me at **kowshick1170@gmail.com**
+
+- ⚡ Fun fact: **Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.**
+

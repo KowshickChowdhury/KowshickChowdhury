@@ -3,7 +3,7 @@
     Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-     <div>My name is Kowshick. I am a full stack developer from Chittagong, Bangladesh.</div>
+     <div>My name is Kowshick. I am a full stack developer from Bangladesh.</div>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>

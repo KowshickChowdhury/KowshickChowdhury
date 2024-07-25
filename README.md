@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <h1>
-    Hey there! My name is Kowshick. I am a full stack developer from Bangladesh.
+    Hey there! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    My name is Kowshick. I am a full stack developer from Bangladesh.
   </h1>
 </div>
 <div align="center">

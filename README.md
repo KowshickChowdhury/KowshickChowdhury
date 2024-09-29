@@ -55,7 +55,7 @@
 
 - 👨‍💻 I am a Full Stack Developer
 
-- 🌱 I’m currently working as a Software Engineer at **[Navieasoft LTD](https://www.navieasoft.com/)**
+- 🌱 I’m currently working as a Software Engineer at **[BD Calling IT Limited](https://bdcalling.com/)**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 

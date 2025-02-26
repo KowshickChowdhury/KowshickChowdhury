@@ -51,7 +51,19 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshick1170@gmail.com)
 
 <br />
-
+<h2 align="center">📊 My Github stats:</h2>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=kowshickChowdhury&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
+</div>
+<div align="center">
+<!--     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kowshickChowdhury&theme=transparent" height="180em" alt="Stats"/> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowshickChowdhury&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kowshickChowdhury&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kowshickChowdhury&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kowshickChowdhury&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kowshickChowdhury&theme=transparent" alt='Profile'/>
+</div>
+<br>
 
 - 👨‍💻 I am a Full Stack Developer
 
